@@ -17,7 +17,3 @@ def current_player(board)
       "X"
   end
 end
-  
-  
-    
-  
